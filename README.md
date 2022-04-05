@@ -1,2 +1,2 @@
 # MysteryData
-A "Just For Fun" Custom Data Parser
+A "Just For Fun" Custom Data Parser Project
